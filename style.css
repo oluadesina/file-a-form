@@ -51,6 +51,8 @@ input[type="radio"] {
 
 .form_option_info {
     margin-left: 29px;
+    border-left: #006699;
+    border-left: 2px;
 }
 
 .start_form_button {
